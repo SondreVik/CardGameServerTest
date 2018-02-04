@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardServer", "CardServer\CardServer.csproj", "{55BB25A8-4C41-4D44-A5ED-1B57AB18F831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsLibrary", "CardsLibrary\CardsLibrary.csproj", "{E3425C64-B7B7-44F9-9132-716825EC001F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardsTest", "CardsTest\CardsTest.csproj", "{E26D8FB3-1257-47EF-BD16-89839F02180B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55BB25A8-4C41-4D44-A5ED-1B57AB18F831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BB25A8-4C41-4D44-A5ED-1B57AB18F831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BB25A8-4C41-4D44-A5ED-1B57AB18F831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BB25A8-4C41-4D44-A5ED-1B57AB18F831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3425C64-B7B7-44F9-9132-716825EC001F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3425C64-B7B7-44F9-9132-716825EC001F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3425C64-B7B7-44F9-9132-716825EC001F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3425C64-B7B7-44F9-9132-716825EC001F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E26D8FB3-1257-47EF-BD16-89839F02180B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26D8FB3-1257-47EF-BD16-89839F02180B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26D8FB3-1257-47EF-BD16-89839F02180B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26D8FB3-1257-47EF-BD16-89839F02180B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D613F8-DEAF-40EC-AE85-CAB71408BED8}
+	EndGlobalSection
+EndGlobal
